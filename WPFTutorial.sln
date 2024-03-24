@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTutorial", "WPFTutorial\WPFTutorial.csproj", "{7CB9B697-9E76-4369-A675-E5F0535CC4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB9B697-9E76-4369-A675-E5F0535CC4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB9B697-9E76-4369-A675-E5F0535CC4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB9B697-9E76-4369-A675-E5F0535CC4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB9B697-9E76-4369-A675-E5F0535CC4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07F8F1E-0109-444C-91B0-06964AB11FBD}
+	EndGlobalSection
+EndGlobal
